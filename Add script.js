@@ -1,3 +1,4 @@
-script.js
-alert("Welcome to my first game!");
-
+function sayHello() {
+  document.getElementById("message").innerText =
+    "Hello! You clicked the button 🎉";
+}
