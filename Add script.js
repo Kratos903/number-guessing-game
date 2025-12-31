@@ -4,3 +4,4 @@ function sayHello() {
 }
 // Number Guessing Game
 // This program lets the user guess a random number
+// Ask the user to enter a number
